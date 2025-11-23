@@ -43,8 +43,8 @@ PyAutoGUI (Mouse/Keyboard Control) & AppleScript (OS Events)
 
 Clone the repo:
 
-('git clone [https://github.com/felixlorenzen/poster-agent.git](https://github.com/felixlorenzen/poster-agent.git)')
-('cd poster-agent')
+'git clone [https://github.com/felixlorenzen/poster-agent.git](https://github.com/felixlorenzen/poster-agent.git)'
+'cd poster-agent'
 
 
 ### Install dependencies:
