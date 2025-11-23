@@ -43,14 +43,14 @@ PyAutoGUI (Mouse/Keyboard Control) & AppleScript (OS Events)
 
 Clone the repo:
 
-git clone [https://github.com/felixlorenzen/poster-agent.git](https://github.com/felixlorenzen/poster-agent.git)
-cd poster-agent
+'git clone [https://github.com/felixlorenzen/poster-agent.git](https://github.com/felixlorenzen/poster-agent.git)'
+'cd poster-agent'
 
 
 ### Install dependencies:
 
-pip install -r requirements.txt
-playwright install chromium
+'pip install -r requirements.txt'
+'playwright install chromium'
 
 
 ### Set up your environment:
@@ -59,11 +59,11 @@ Export your OpenAI Key: export OPENAI_KEY='sk-...'
 
 Optional: Update the WHATSAPP_CHAT_NAME in the script if you don't talk to yourself.
 
-Usage
+### Usage
 
-### Run the agent:
+Run the agent:
 
-python3 poster_agent.py
+'python3 poster_agent.py'
 
 
 First run requires scanning the WhatsApp QR code. The session is saved locally for future runs.
